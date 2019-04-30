@@ -4,8 +4,10 @@
 **/Intermediate/
 **/Saved/
 **/node_modules/
-/TsuExamples.code-workspace
-/TsuExamples.sln
+/*.code-workspace
+/*.sln
+/*.xcworkspace/*
+/DerivedDataCache/*
 
 # Windows
 Thumbs.db
