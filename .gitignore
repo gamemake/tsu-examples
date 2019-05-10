@@ -32,3 +32,6 @@ Thumbs.db
 *.ori
 *.orig
 *.tmp
+
+# VSCode
+/.vscode
